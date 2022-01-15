@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khalid2424
 - 👀 I’m interested in software and web development
-- 🌱 I’m currently learning Python, Html and CSS
+- 🌱 I’m into Python, CSS and Javascript
 - 💞️ I’m looking to collaborate on any frontend and backend projects
 - 📫 How to reach me at velerunndu@gmail.com
 
